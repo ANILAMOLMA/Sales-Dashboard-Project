@@ -24,7 +24,7 @@ This dashboard provides a comprehensive overview of sales performance across reg
 
 ## Files Included
 - `sales_data.xlsx` – Cleaned sales dataset.  
-- `sales_dashboard.pbix` – Power BI file of the dashboard.
+- `sales_data_dashboard.pbix` – Power BI file of the dashboard.
 
 ## Author
 **Anila Mol M A**  
